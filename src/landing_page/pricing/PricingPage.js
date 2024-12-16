@@ -1,14 +1,14 @@
 import React from 'react';
-import CreateTicket from './CreateTicket';
 import Hero from './Hero';
+import Brokerage from './Brokerage';
 
-function SupportPage() {
+function PricingPage() {
     return ( 
         <>
-            <CreateTicket/>
             <Hero/>
+            <Brokerage/>
         </>
      );
 }
 
-export default SupportPage;
+export default PricingPage;
