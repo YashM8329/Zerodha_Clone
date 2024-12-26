@@ -33,8 +33,18 @@ function Team() {
             person while maintaining strong relationships.
           </p>
           <p>
-            Connect on <a style={{textDecoration: "none"}} href="">Homepage</a> / <a style={{textDecoration: "none"}} href="">TradingQnA</a> /{" "}
-            <a style={{textDecoration: "none"}} href="">Twitter</a>
+            Connect on{" "}
+            <a style={{ textDecoration: "none" }} href="">
+              Homepage
+            </a>{" "}
+            /{" "}
+            <a style={{ textDecoration: "none" }} href="">
+              TradingQnA
+            </a>{" "}
+            /{" "}
+            <a style={{ textDecoration: "none" }} href="">
+              Twitter
+            </a>
           </p>
         </div>
       </div>

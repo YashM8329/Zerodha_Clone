@@ -1,5 +1,5 @@
-
 import React from 'react';
+
 function Awards() {
     return ( 
         <div className='contianer mt-5'>
